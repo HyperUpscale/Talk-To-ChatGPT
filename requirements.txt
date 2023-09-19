@@ -1,0 +1,11 @@
+wheel
+playsound
+requests
+openai
+numpy
+datetime
+colorama
+soundfile
+sounddevice
+os
+re
