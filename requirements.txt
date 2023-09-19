@@ -7,5 +7,4 @@ datetime
 colorama
 soundfile
 sounddevice
-os
 re
