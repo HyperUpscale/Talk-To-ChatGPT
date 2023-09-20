@@ -12,10 +12,10 @@ Recommended: Thonny is a simplified python editor from https://thonny.org/. That
 
 ## ## Quickest way To Install and Run on Windows:
 Step 1: Create the working directory/folder
-`Create a folder on your Desktop **Talk-To-ChatGPT**`
+`Create a folder on your Desktop with name: Talk-To-ChatGPT**`
 
 Step 2: These are all 5 initial files for the project to run
-`Download the files **chatbot1.txt, elabapikey.txt, openaiapikey2.txt, requirements.txt and talk.py** `
+`Download the files chatbot1.txt, elabapikey.txt, openaiapikey2.txt, requirements.txt and talk.py `
 
 Step 3: Open Command Prompt
 `cmd`
@@ -33,12 +33,14 @@ Step 7: Install all requirements for the project into the virtual environment "T
 ```pip install -r requirements.txt``` 
 
 Step 8: Replace the text in each of the two files with the API Keys given by ElevenLabs and OpenAI
-update the content of **elabapikey.txt** and **openaiapikey2.txt** - save. 
+update the content of: elabapikey.txt & openaiapikey2.txt. Save. 
 
 Step 9: Run the python script
 ```python talk.py```
 
-<a href='https://www.allabtai.com/talk-to-chatgpt/'> Thanks to!</a> 
+<a href='https://www.allabtai.com/talk-to-chatgpt/'> Thanks !</a> 
+
+
 
 More on the YouTube Channel: <a href='https://www.youtube.com/@AIGoldenfinger'>AIGoldenfinger</a>
 
