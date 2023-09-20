@@ -15,7 +15,7 @@ Step 1: Create the working directory/folder
 `Create a folder on your Desktop **Talk-To-ChatGPT**`
 
 Step 2: These are all 5 initial files for the project to run
-`Download the files **chatbot1.txt, elabapikey.txt, openaiapikey2.txt, requirements.txt** and **talk.py** `
+`Download the files **chatbot1.txt, elabapikey.txt, openaiapikey2.txt, requirements.txt and talk.py** `
 
 Step 3: Open Command Prompt
 `cmd`
